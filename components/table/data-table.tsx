@@ -148,9 +148,9 @@ export function Filter({
   
   }: {
   
-	column: Column<any, unknown>;
+	column: any;
   
-	table: ITable<any>;
+	table: any;
   
   }) {
   
